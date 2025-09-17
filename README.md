@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim1520&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim1520" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim1520" alt="ibrahim1520" /></a> </p>
 
 - 🔭 I’m currently working on **oracle cloud**
 
